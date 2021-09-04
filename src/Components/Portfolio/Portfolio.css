@@ -1,0 +1,23 @@
+.TM_Portfolio {
+    transition: all 0.5 ease-in-out;
+}
+.TM_Portfolio_Title{
+    margin-bottom: 36px;
+    font-weight: 500;
+    color: #444444;
+    letter-spacing: .1em;
+    transition: all 0.4 ease-in-out;
+}
+.TM_Portfolio_Galery_List{
+    width: 100%;
+    column-count: 3;
+    column-width: auto;
+    gap: 14px;
+}
+
+.galery_img_item{
+    border-radius: 20px;
+    padding: 7px 0px;
+    height:auto;
+    width: 100%;
+}

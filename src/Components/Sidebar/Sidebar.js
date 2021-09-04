@@ -12,10 +12,6 @@ function Sidebar() {
             link: '/'
         },
         {
-            name: 'address-card',
-            link: '/about'
-        },
-        {
             name: 'briefcase',
             link: '/portfolio'
         },

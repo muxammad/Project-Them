@@ -10,7 +10,7 @@ import FunFacts from './FunFacts/FunFacts'
 
 function About() {
     return (
-        <div className="container TM_About py-4">
+        <div data-aos="fade-top" className="container TM_About py-4">
             <div className="row">
                 <div className="col-3">
                     <UserInfoCard />

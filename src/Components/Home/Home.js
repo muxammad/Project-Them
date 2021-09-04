@@ -5,7 +5,7 @@ import './Home.css'
 
 function Home() {
     return (
-        <div className="container TM_Home">
+        <div data-aos="fade-top" className="container TM_Home">
             <Navbar />
             <div className="d-flex flex-column h-100 justify-content-center mx-3 TM_Home_Text">
                 <span className="text-uppercase TM_Home_Text_footer">Hello</span>
