@@ -1,0 +1,17 @@
+.TM_About_FunFacts{
+    padding: 1.5em;
+}
+.TM_About_FunFacts_Title{
+    margin-bottom: 36px;
+    font-weight: 500;
+    color: #444444;
+    letter-spacing: .1em;
+}
+.TM_About_FunFacts_Icon i{
+    font-size: 46px;
+    color: #937bcf;
+}
+
+.TM_About_FunFacts_Icon_Title{
+    font-size: 15px;
+}

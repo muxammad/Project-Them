@@ -1,0 +1,21 @@
+.TM_About_Name{
+    font-weight: 600;
+    color: #717070;
+}
+.TM_About_Job_Info{
+    font-weight: 200;
+    letter-spacing: .2em;
+    color: #717070;
+}
+.TM_About_Sot_Icon{
+    color: #717070;
+}
+.TM_About_Sot_Icon:hover{
+    color: #000;
+}
+.TM_About_Info_List_Item{
+    color: #717070;
+    font-size: 13px;
+    font-weight: 300;
+    letter-spacing: .1em
+}

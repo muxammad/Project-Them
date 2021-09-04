@@ -1,0 +1,18 @@
+.TM_Home {
+    background-image: url('./back.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:contain;
+    width: 100%;
+    overflow: hidden;   
+    height: calc(100% - 60px);
+}
+.TM_Home_Name{
+    font-weight: 900;
+    color: #2c185a;
+}
+.TM_Home_btn{
+    width: 100px;
+    border-radius: 10px;
+    background-color: #947bce;
+}
